@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 205
+Debug
+Release
+*.user
+Release LIB
+x64
+ALL_BUILD.vcproj
+*.cmake
+CMakeFiles
+release
+Tests.dir
+Tests.sln
+Tests.vcproj
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+stdafx.pch
+Tests.vcxproj
+Tests.vcxproj.filters
+
+K 13
+svn:mergeinfo
+V 70
+/branches/1.1/src/tests:387-438
+/branches/1.2_crcode/src/tests:485-511
+END

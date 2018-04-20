@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/build/x86-msvs
+END
+yasm.targets
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/build/x86-msvs/yasm.targets
+END
+yasm.rules
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/build/x86-msvs/yasm.rules
+END
+obj_int_extract.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/build/x86-msvs/obj_int_extract.bat
+END
+yasm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/build/x86-msvs/yasm.xml
+END
+yasm.props
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/build/x86-msvs/yasm.props
+END

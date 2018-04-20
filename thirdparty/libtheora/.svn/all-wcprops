@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1583/trunk/thirdparty/libtheora
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/AUTHORS
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/COPYING
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1492/trunk/thirdparty/libtheora/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/README
+END

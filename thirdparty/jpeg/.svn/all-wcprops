@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1583/trunk/thirdparty/jpeg
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jddctmgr.c
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jerror.c
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jmemansi.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jchuff.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdtrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdmaster.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jidctfst.c
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcinit.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jquant1.c
+END
+change.log
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/change.log
+END
+jaricom.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jaricom.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jquant2.c
+END
+jcarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcarith.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdct.h
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jccolor.c
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdatasrc.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1435/trunk/thirdparty/jpeg/CMakeLists.txt
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcsample.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jmemmgr.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdsample.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jfdctflt.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcapistd.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jinclude.h
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdapistd.c
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jidctflt.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jversion.h
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jctrans.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jpegint.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jidctint.c
+END
+jpeg_vs2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1418/trunk/thirdparty/jpeg/jpeg_vs2010.vcxproj
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcprepct.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/README
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdmerge.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdinput.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jconfig.h
+END
+jdarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdarith.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdapimin.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jmemsys.h
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jdcolor.c
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/jpeg/jcdctmgr.c
+END

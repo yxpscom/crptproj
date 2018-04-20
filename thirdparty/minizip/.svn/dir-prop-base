@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 208
+Debug
+*.user
+Release
+Release LIB
+x64
+CMakeFiles
+minizip.dir
+ALL_BUILD.vcproj
+cmake_install.cmake
+minizip.sln
+minizip.vcproj
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+minizip.vcxproj
+minizip.vcxproj.filters
+
+K 13
+svn:mergeinfo
+V 126
+/branches/1.1/src/minizip:387-438
+/branches/1.2_crcode/src/minizip:485-511
+/branches/video_record/thirdparty/minizip:1397-1417
+END

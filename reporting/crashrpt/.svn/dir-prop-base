@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 164
+*.user
+Debug
+Release
+Release LIB
+x64
+cmake_install.cmake
+CMakeFiles
+CrashRpt.dir
+CrashRpt.vcproj
+release
+CrashRpt.vcxproj
+CrashRpt.vcxproj.filters
+stdafx.pch
+*.aps
+
+K 13
+svn:mergeinfo
+V 128
+/branches/1.1/src/crashrpt:387-438
+/branches/1.2_crcode/src/crashrpt:485-511
+/branches/video_record/reporting/crashrpt:1397-1417
+END

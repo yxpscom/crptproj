@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86
+END
+x86enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/x86enc.h
+END
+mmxloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxloop.h
+END
+mmxfrag.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxfrag.c
+END
+mmxfdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxfdct.c
+END
+mmxstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxstate.c
+END
+x86int.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/x86int.h
+END
+mmxidct.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxidct.c
+END
+mmxfrag.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxfrag.h
+END
+x86state.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/x86state.c
+END
+mmxencfrag.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/mmxencfrag.c
+END
+x86enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/x86enc.c
+END
+sse2fdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/lib/x86/sse2fdct.c
+END

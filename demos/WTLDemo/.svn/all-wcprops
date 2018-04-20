@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1639/trunk/demos/WTLDemo
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1499/trunk/demos/WTLDemo/stdafx.h
+END
+WTLDemo_vs2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1639/trunk/demos/WTLDemo/WTLDemo_vs2010.vcxproj
+END
+AboutDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1322/trunk/demos/WTLDemo/AboutDlg.h
+END
+DocumentDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1322/trunk/demos/WTLDemo/DocumentDlg.h
+END
+MainDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1501/trunk/demos/WTLDemo/MainDlg.cpp
+END
+WTLDemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1638/trunk/demos/WTLDemo/WTLDemo.cpp
+END
+MainDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1499/trunk/demos/WTLDemo/MainDlg.h
+END
+dummy.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1322/trunk/demos/WTLDemo/dummy.ini
+END
+CrashThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1499/trunk/demos/WTLDemo/CrashThread.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1499/trunk/demos/WTLDemo/stdafx.cpp
+END
+dummy.log
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1322/trunk/demos/WTLDemo/dummy.log
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1418/trunk/demos/WTLDemo/resource.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1492/trunk/demos/WTLDemo/CMakeLists.txt
+END
+CrashThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1499/trunk/demos/WTLDemo/CrashThread.h
+END
+WTLDemo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1639/trunk/demos/WTLDemo/WTLDemo.rc
+END

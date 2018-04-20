@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1639/trunk/reporting/crashsender
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1499/trunk/reporting/crashsender/stdafx.h
+END
+MailMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1499/trunk/reporting/crashsender/MailMsg.h
+END
+DetailDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1499/trunk/reporting/crashsender/DetailDlg.h
+END
+CrashInfoReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1638/trunk/reporting/crashsender/CrashInfoReader.cpp
+END
+VideoRec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1633/trunk/reporting/crashsender/VideoRec.cpp
+END
+ScreenCap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ScreenCap.cpp
+END
+AssyncNotification.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1499/trunk/reporting/crashsender/AssyncNotification.cpp
+END
+FilePreviewCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1499/trunk/reporting/crashsender/FilePreviewCtrl.h
+END
+SequenceLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1499/trunk/reporting/crashsender/SequenceLayout.h
+END
+ResendDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ResendDlg.h
+END
+ErrorReportDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ErrorReportDlg.h
+END
+smtpclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1627/trunk/reporting/crashsender/smtpclient.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1499/trunk/reporting/crashsender/base64.cpp
+END
+CrashSender_vs2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1491/trunk/reporting/crashsender/CrashSender_vs2010.vcxproj
+END
+DetailDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1637/trunk/reporting/crashsender/DetailDlg.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1499/trunk/reporting/crashsender/stdafx.cpp
+END
+MailMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1499/trunk/reporting/crashsender/MailMsg.cpp
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1499/trunk/reporting/crashsender/md5.h
+END
+ErrorReportSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1628/trunk/reporting/crashsender/ErrorReportSender.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1470/trunk/reporting/crashsender/resource.h
+END
+VideoRecDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1499/trunk/reporting/crashsender/VideoRecDlg.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1507/trunk/reporting/crashsender/CMakeLists.txt
+END
+HttpRequestSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1499/trunk/reporting/crashsender/HttpRequestSender.h
+END
+ProgressDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ProgressDlg.h
+END
+CrashSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1499/trunk/reporting/crashsender/CrashSender.cpp
+END
+CrashInfoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1638/trunk/reporting/crashsender/CrashInfoReader.h
+END
+VideoRec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1633/trunk/reporting/crashsender/VideoRec.h
+END
+FilePreviewCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1499/trunk/reporting/crashsender/FilePreviewCtrl.cpp
+END
+ResendDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ResendDlg.cpp
+END
+ScreenCap.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ScreenCap.h
+END
+ErrorReportDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ErrorReportDlg.cpp
+END
+AssyncNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1499/trunk/reporting/crashsender/AssyncNotification.h
+END
+CrashSender.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1639/trunk/reporting/crashsender/CrashSender.rc
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1499/trunk/reporting/crashsender/md5.cpp
+END
+ErrorReportSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1630/trunk/reporting/crashsender/ErrorReportSender.cpp
+END
+VideoRecDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1499/trunk/reporting/crashsender/VideoRecDlg.cpp
+END
+smtpclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1499/trunk/reporting/crashsender/smtpclient.h
+END
+HttpRequestSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1632/trunk/reporting/crashsender/HttpRequestSender.cpp
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1499/trunk/reporting/crashsender/base64.h
+END
+ProgressDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1499/trunk/reporting/crashsender/ProgressDlg.cpp
+END

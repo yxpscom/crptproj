@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/include/theora
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/include/theora/codec.h
+END
+theoradec.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/include/theora/theoradec.h
+END
+theora.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/include/theora/theora.h
+END
+theoraenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/include/theora/theoraenc.h
+END

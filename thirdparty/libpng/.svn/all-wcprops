@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1583/trunk/thirdparty/libpng
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngerror.c
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngrio.c
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngwrite.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngconf.h
+END
+libpng_vs2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1277/trunk/thirdparty/libpng/libpng_vs2010.vcxproj
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngpread.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngset.c
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngwtran.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/LICENSE
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngwio.c
+END
+pngvcrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngvcrd.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngrutil.c
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngwutil.c
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngmem.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/png.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngget.c
+END
+pnggccrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pnggccrd.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/png.h
+END
+libpng-1.2.24.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/libpng-1.2.24.txt
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngrtran.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1435/trunk/thirdparty/libpng/CMakeLists.txt
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1239/trunk/thirdparty/libpng/pngtrans.c
+END

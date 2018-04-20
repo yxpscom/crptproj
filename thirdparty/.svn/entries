@@ -1,0 +1,58 @@
+10
+
+dir
+1645
+http://crashrpt.googlecode.com/svn/trunk/thirdparty
+http://crashrpt.googlecode.com/svn
+
+
+
+2014-08-08T09:23:12.648726Z
+1645
+zexspectrum@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+821a4644-a21a-0410-aec7-6199d47568cc
+
+minizip
+dir
+
+zlib
+dir
+
+libogg
+dir
+
+tinyxml
+dir
+
+jpeg
+dir
+
+dbghelp
+dir
+
+wtl
+dir
+
+libtheora
+dir
+
+webm
+dir
+
+libpng
+dir
+

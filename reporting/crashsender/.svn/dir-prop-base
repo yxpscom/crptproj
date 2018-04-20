@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 253
+*.user
+Debug
+Release
+Release LIB
+x64
+ALL_BUILD.vcproj
+cmake_install.cmake
+CMakeFiles
+CrashSender.dir
+CrashSender.sln
+CrashSender.vcproj
+release
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+CrashSender.vcxproj
+CrashSender.vcxproj.filters
+stdafx.pch
+*.aps
+
+K 13
+svn:mergeinfo
+V 137
+/branches/1.1/src/crashsender:387-438
+/branches/1.2_crcode/src/crashsender:485-511
+/branches/video_record/reporting/crashsender:1397-1417
+END

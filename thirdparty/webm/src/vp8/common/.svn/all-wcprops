@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common
+END
+blockd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/blockd.c
+END
+findnearmv.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/findnearmv.h
+END
+pragmas.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/pragmas.h
+END
+quant_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/quant_common.c
+END
+blockd.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/blockd.h
+END
+quant_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/quant_common.h
+END
+onyxd.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/onyxd.h
+END
+reconinter.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/reconinter.c
+END
+sad_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/sad_c.c
+END
+postproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/postproc.c
+END
+dequantize.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/dequantize.c
+END
+reconinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/reconinter.h
+END
+debugmodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/debugmodes.c
+END
+postproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/postproc.h
+END
+loopfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/loopfilter.c
+END
+onyxc_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/onyxc_int.h
+END
+loopfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/loopfilter.h
+END
+rtcd_defs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/rtcd_defs.sh
+END
+mv.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/mv.h
+END
+rtcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/rtcd.c
+END
+variance.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/variance.h
+END
+entropy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/entropy.c
+END
+ppflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/ppflags.h
+END
+vp8_entropymodedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/vp8_entropymodedata.h
+END
+onyx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/onyx.h
+END
+entropymv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/entropymv.c
+END
+alloccommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/alloccommon.c
+END
+reconintra.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/reconintra.c
+END
+reconintra4x4.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/reconintra4x4.c
+END
+entropy.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/entropy.h
+END
+entropymode.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/entropymode.c
+END
+loopfilter_filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/loopfilter_filters.c
+END
+asm_com_offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/asm_com_offsets.c
+END
+modecont.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/modecont.c
+END
+entropymv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/entropymv.h
+END
+alloccommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/alloccommon.h
+END
+invtrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/invtrans.h
+END
+reconintra4x4.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/reconintra4x4.h
+END
+threading.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/threading.h
+END
+entropymode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/entropymode.h
+END
+idct_blk.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/idct_blk.c
+END
+treecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/treecoder.c
+END
+modecont.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/modecont.h
+END
+systemdependent.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/systemdependent.h
+END
+treecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/treecoder.h
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/filter.c
+END
+setupintrarecon.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/setupintrarecon.c
+END
+mbpitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/mbpitch.c
+END
+swapyv12buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/swapyv12buffer.c
+END
+extend.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/extend.c
+END
+idctllm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/idctllm.c
+END
+mfqe.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/mfqe.c
+END
+findnearmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/findnearmv.c
+END
+variance_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/variance_c.c
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/filter.h
+END
+setupintrarecon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/setupintrarecon.h
+END
+coefupdateprobs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/coefupdateprobs.h
+END
+default_coef_probs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/default_coef_probs.h
+END
+swapyv12buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/swapyv12buffer.h
+END
+extend.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/extend.h
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/header.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vp8/common/common.h
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1639/trunk/reporting/crashrpt
+END
+CrashHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1638/trunk/reporting/crashrpt/CrashHandler.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1499/trunk/reporting/crashrpt/StdAfx.h
+END
+CritSec.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1499/trunk/reporting/crashrpt/CritSec.h
+END
+CrashRpt.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1449/trunk/reporting/crashrpt/CrashRpt.def
+END
+strconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1499/trunk/reporting/crashrpt/strconv.h
+END
+Utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1630/trunk/reporting/crashrpt/Utility.cpp
+END
+CrashHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1638/trunk/reporting/crashrpt/CrashHandler.h
+END
+SharedMem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1499/trunk/reporting/crashrpt/SharedMem.cpp
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1609/trunk/reporting/crashrpt/Utility.h
+END
+CrashRpt.rc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1639/trunk/reporting/crashrpt/CrashRpt.rc
+END
+CrashRpt_vs2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1491/trunk/reporting/crashrpt/CrashRpt_vs2010.vcxproj
+END
+SharedMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1638/trunk/reporting/crashrpt/SharedMem.h
+END
+CrashRpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1638/trunk/reporting/crashrpt/CrashRpt.cpp
+END
+Prefastdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1239/trunk/reporting/crashrpt/Prefastdef.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1239/trunk/reporting/crashrpt/StdAfx.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1239/trunk/reporting/crashrpt/resource.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1507/trunk/reporting/crashrpt/CMakeLists.txt
+END

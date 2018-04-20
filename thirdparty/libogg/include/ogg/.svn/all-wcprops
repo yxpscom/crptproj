@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/include/ogg
+END
+ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/include/ogg/ogg.h
+END
+os_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/include/ogg/os_types.h
+END

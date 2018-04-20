@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1499/trunk/thirdparty/libtheora/win32/VS2010
+END
+libogg.props
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/win32/VS2010/libogg.props
+END
+libvorbis.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/win32/VS2010/libvorbis.vsprops
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/win32/VS2010/README
+END
+libogg.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1418/trunk/thirdparty/libtheora/win32/VS2010/libogg.vsprops
+END

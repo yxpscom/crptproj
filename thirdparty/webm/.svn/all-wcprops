@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1418/trunk/thirdparty/webm
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1418/trunk/thirdparty/webm/CHANGELOG
+END
+md5sums.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1418/trunk/thirdparty/webm/md5sums.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1418/trunk/thirdparty/webm/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1418/trunk/thirdparty/webm/README
+END

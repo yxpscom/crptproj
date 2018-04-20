@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 208
+Debug
+Release
+*.user
+Release LIB
+x64
+CMakeFiles
+tinyxml.dir
+ALL_BUILD.vcproj
+cmake_install.cmake
+tinyxml.sln
+tinyxml.vcproj
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+tinyxml.vcxproj
+tinyxml.vcxproj.filters
+
+K 13
+svn:mergeinfo
+V 126
+/branches/1.1/src/tinyxml:387-438
+/branches/1.2_crcode/src/tinyxml:485-511
+/branches/video_record/thirdparty/tinyxml:1397-1417
+END

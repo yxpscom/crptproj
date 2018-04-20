@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1583/trunk/thirdparty/libogg
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/AUTHORS
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/COPYING
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1418/trunk/thirdparty/libogg/README
+END

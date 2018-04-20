@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vpx_scale
+END
+scale_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vpx_scale/scale_mode.h
+END
+vpx_scale.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vpx_scale/vpx_scale.mk
+END
+vpxscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vpx_scale/vpxscale.h
+END
+yv12config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1418/trunk/thirdparty/webm/src/vpx_scale/yv12config.h
+END

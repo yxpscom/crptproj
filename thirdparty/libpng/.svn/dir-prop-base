@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 203
+Debug
+*.user
+Release
+Release LIB
+x64
+ALL_BUILD.vcproj
+cmake_install.cmake
+CMakeFiles
+libpng.dir
+libpng.sln
+libpng.vcproj
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+libpng.vcxproj
+libpng.vcxproj.filters
+
+K 13
+svn:mergeinfo
+V 123
+/branches/1.1/src/libpng:387-438
+/branches/1.2_crcode/src/libpng:485-511
+/branches/video_record/thirdparty/libpng:1397-1417
+END
