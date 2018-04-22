@@ -1,8 +1,0 @@
-error: the type 'dirs' is not supported for the entry tag within a navindex! Check your layout file!
-E:/crashrpt/docs/dox/configure_prj.dox:25: warning: Unsupported xml/html tag <CRASHRPT_HOME> found
-E:/crashrpt/docs/dox/configure_prj.dox:27: warning: Unsupported xml/html tag <CRASHRPT_HOME> found
-E:/crashrpt/docs/dox/configure_prj.dox:29: warning: Unsupported xml/html tag <CRASHRPT_HOME> found
-E:/crashrpt/include/CrashRpt.h:1259: warning: Found unknown command `\or'
-E:/crashrpt/include/CrashRpt.h:1733: warning: parameters of member CrAutoInstallHelper::CrAutoInstallHelper are not (all) documented
-E:/crashrpt/include/CrashRpt.h:1739: warning: parameters of member CrAutoInstallHelper::CrAutoInstallHelper are not (all) documented
-E:/crashrpt/include/CrashRpt.h:1785: warning: parameters of member CrThreadAutoInstallHelper::CrThreadAutoInstallHelper are not (all) documented

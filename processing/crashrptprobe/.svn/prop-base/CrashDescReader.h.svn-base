@@ -1,7 +1,0 @@
-K 13
-svn:mergeinfo
-V 206
-/branches/1.1/src/crashrptprobe/src/CrashDescReader.h:387-438
-/branches/1.2_crcode/src/crashrptprobe/src/CrashDescReader.h:485-511
-/branches/video_record/processing/crashrptprobe/CrashDescReader.h:1397-1417
-END
