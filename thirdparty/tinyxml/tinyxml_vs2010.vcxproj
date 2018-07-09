@@ -123,52 +123,60 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <OutDir>$(SolutionDir)thirdparty\lib\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_LIB|Win32'">
-    <OutDir>$(SolutionDir)thirdparty\lib\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <OutDir>$(SolutionDir)thirdparty\lib\$(Platform)\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_LIB|x64'">
-    <OutDir>$(SolutionDir)thirdparty\lib\$(Platform)\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <TargetName>tinyxmld</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_LIB|Win32'">
     <TargetName>tinyxmld</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <TargetName>tinyxmld</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_LIB|x64'">
     <TargetName>tinyxmld</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <OutDir>$(SolutionDir)thirdparty\lib\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <OutDir>$(SolutionDir)thirdparty\lib\$(Platform)\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release LIB|Win32'">
-    <OutDir>$(SolutionDir)thirdparty\lib\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release LIB|x64'">
-    <OutDir>$(SolutionDir)thirdparty\lib\$(Platform)\</OutDir>
+    <OutDir>$(SolutionDir)out\lib\$(PlatformShortName)\$(Configuration)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <TargetName>tinyxml</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <TargetName>tinyxml</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release LIB|Win32'">
     <TargetName>tinyxml</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release LIB|x64'">
     <TargetName>tinyxml</TargetName>
+    <IntDir>$(SolutionDir)out\tmp\$(PlatformShortName)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
