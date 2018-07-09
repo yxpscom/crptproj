@@ -258,7 +258,7 @@
       <AdditionalDependencies>libtheorad.lib;liboggd.lib;tinyxmld.lib;jpegd.lib;zlibd.lib;minizipd.lib;WS2_32.lib;Dnsapi.lib;wininet.lib;Rpcrt4.lib;Gdi32.lib;shell32.lib;Comdlg32.lib;version.lib;libpngd.lib;psapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>$(SolutionDir)thirdparty\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>$(OutDir)\CrashSenderd.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
@@ -300,7 +300,7 @@
       <AdditionalDependencies>libtheorad.lib;liboggd.lib;tinyxmld.lib;jpegd.lib;zlibd.lib;minizipd.lib;WS2_32.lib;Dnsapi.lib;wininet.lib;Rpcrt4.lib;Gdi32.lib;shell32.lib;Comdlg32.lib;version.lib;libpngd.lib;psapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>$(SolutionDir)thirdparty\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>$(OutDir)\CrashSenderd.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
@@ -343,7 +343,7 @@
       <AdditionalDependencies>libtheora.lib;libogg.lib;jpeg.lib;tinyxml.lib;zlib.lib;libpng.lib;minizip.lib;WS2_32.lib;Dnsapi.lib;wininet.lib;Rpcrt4.lib;psapi.lib;Gdi32.lib;shell32.lib;Comdlg32.lib;version.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>$(SolutionDir)thirdparty\lib%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>$(OutDir)\CrashSender.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX86</TargetMachine>
       <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
@@ -390,6 +390,7 @@
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX64</TargetMachine>
       <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
     </Link>
     <PostBuildEvent>
       <Command>copy "$(SolutionDir)lang_files\crashrpt_lang_EN.ini" "$(OutDir)\crashrpt_lang.ini"</Command>
@@ -430,7 +431,7 @@
       <AdditionalDependencies>libogg.lib;libtheora.lib;tinyxml.lib;jpeg.lib;zlib.lib;minizip.lib;libpng.lib;psapi.lib;WS2_32.lib;Dnsapi.lib;wininet.lib;Rpcrt4.lib;Gdi32.lib;shell32.lib;Comdlg32.lib;version.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>..\..\thirdparty\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>$(OutDir)$(TargetName).pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
@@ -473,6 +474,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX64</TargetMachine>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
     </Link>
     <PostBuildEvent>
       <Command>copy "$(SolutionDir)lang_files\crashrpt_lang_EN.ini" "$(OutDir)\crashrpt_lang.ini"</Command>
@@ -519,6 +521,26 @@
     <PostBuildEvent>
       <Command>copy "$(SolutionDir)lang_files\crashrpt_lang_EN.ini" "$(OutDir)\crashrpt_lang.ini"</Command>
     </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'">
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'">
+    <Link>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Template|x64'">
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Template|x64'">
+    <Link>
+      <ProgramDatabaseFile>$(TargetDir)$(TargetName).pdb</ProgramDatabaseFile>
+    </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\crashrpt\SharedMem.cpp" />

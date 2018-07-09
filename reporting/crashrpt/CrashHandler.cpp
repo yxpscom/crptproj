@@ -266,7 +266,7 @@ int CCrashHandler::Init(
     CString sCrashRptModule;
 #ifndef CRASHRPT_LIB
 #ifdef _DEBUG
-    sCrashRptModule.Format(_T("CrashRpt%dd.dll"), CRASHRPT_VER);
+    sCrashRptModule.Format(_T("CrashRpt%d.dll"), CRASHRPT_VER);
     pszCrashRptModule = sCrashRptModule.GetBuffer(0);
 #else
     sCrashRptModule.Format(_T("CrashRpt%d.dll"), CRASHRPT_VER);
@@ -292,7 +292,7 @@ int CCrashHandler::Init(
     CString sCrashSenderName;
 
 #ifdef _DEBUG
-    sCrashSenderName.Format(_T("CrashSender%dd.exe"), CRASHRPT_VER);
+    sCrashSenderName.Format(_T("CrashSender%d.exe"), CRASHRPT_VER);
 #else
     sCrashSenderName.Format(_T("CrashSender%d.exe"), CRASHRPT_VER);
 #endif //_DEBUG

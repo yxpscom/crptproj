@@ -2593,7 +2593,7 @@ int CErrorReportSender::TerminateAllCrashSenderProcesses()
 	// Format process name.
 	CString sProcessName;
 #ifdef _DEBUG
-	sProcessName.Format(_T("CrashSender%dd.exe"), CRASHRPT_VER);
+	sProcessName.Format(_T("CrashSender%d.exe"), CRASHRPT_VER);
 #else
 	sProcessName.Format(_T("CrashSender%d.exe"), CRASHRPT_VER);
 #endif
